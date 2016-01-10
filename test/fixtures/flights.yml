@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  from_airport_id: 1
+  to_airport_id: 1
+  departure_date: 2016-01-10 23:08:02
+  arrival_date: 2016-01-10 23:08:02
+  airline: MyString
+  price: 9.99
+
+two:
+  from_airport_id: 1
+  to_airport_id: 1
+  departure_date: 2016-01-10 23:08:02
+  arrival_date: 2016-01-10 23:08:02
+  airline: MyString
+  price: 9.99
